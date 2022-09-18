@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "barrier": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "coroutine": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "functional": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "string_view": "cpp",
+        "stacktrace": "cpp",
+        "syncstream": "cpp",
+        "system_error": "cpp",
+        "typeindex": "cpp",
+        "variant": "cpp"
+    }
+}
