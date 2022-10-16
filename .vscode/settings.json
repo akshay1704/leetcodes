@@ -17,6 +17,14 @@
         "syncstream": "cpp",
         "system_error": "cpp",
         "typeindex": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "regex": "cpp",
+        "tuple": "cpp",
+        "span": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp"
     }
 }
